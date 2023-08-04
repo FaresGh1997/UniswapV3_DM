@@ -24,7 +24,7 @@ collect, store and analyze [UniSwap](https://uniswap.org/) Transactional data.
 
 ![Database](https://github.com/FaresGh1997/UniswapV3_DM/assets/114985388/83baea0d-6ee6-4595-b83c-742733f8781c)
 
-Skills developed: pandas | SQL | BigQuery | Graphql | networkx | APIs | Data Processing | EDA | Statistical Analysis | Data Visualization | DeFi protocols.
+Skills developed: pandas | SQL | BigQuery | Graphql | APIs | Data Processing | EDA | Statistical Analysis | Data Visualization | DeFi protocols.
 
 
 
