@@ -22,6 +22,10 @@ collect, store and analyze [UniSwap](https://uniswap.org/) Transactional data.
 - predicted decline in the value of the WBTC and WETH at the same time.
 - Analysis of the total amount of mints, burns and Swaps did not reveal interesting discoveries.
 
-  
+![Database](https://github.com/FaresGh1997/UniswapV3_DM/assets/114985388/83baea0d-6ee6-4595-b83c-742733f8781c)
+
 Skills developed: pandas | SQL | BigQuery | Graphql | networkx | APIs | Data Processing | EDA | Statistical Analysis | Data Visualization | DeFi protocols.
+
+
+
 
